@@ -15,8 +15,8 @@ DS: Unsure, own homebrewed 3DS<br>
 3DS: Checkpoint<br>
 Genesis: Everdrive<br>
 Sega CD: Everdrive<br>
-Sega Saturn: Unsure, don't know how to back up saves.<br>
-Sega Dreamcast: Unsure, own a Brook Wingman as it has built-in VMU support that supposedly has save backup support over PC.<br>
+Sega Saturn: Unsure<br>
+Sega Dreamcast: Unsure<br>
 PS1: SD2PSX<br>
 PS2: SD2PSX<br>
 PS3: Unsure, Console supports CFW<br>
