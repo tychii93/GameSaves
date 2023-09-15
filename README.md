@@ -2,8 +2,7 @@
 Repository for backed up game saves
 
 # Save Formats
----
-NES: Everdrive
+NES: Everdrive<br>
 SNES: SD2SNES (FXPak Pro)
 N64: Everdrive
 Gamecube: Homebrew
