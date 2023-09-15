@@ -17,7 +17,7 @@ DS: Unsure, own homebrewed 3DS<br>
 Genesis: Everdrive<br>
 Sega CD: Everdrive<br>
 Sega Saturn: Unsure<br>
-Sega Dreamcast: Unsure<br>
+Sega Dreamcast: Unsure (I own a Brook Wingman which can supposedly back up its built-in VMU)<br>
 PS1: SD2PSX<br>
 PS2: SD2PSX<br>
 PS3: Unsure, Console supports CFW<br>
