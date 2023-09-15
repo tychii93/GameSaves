@@ -1,5 +1,6 @@
 # GameSaves
-Repository for backed up game saves
+Repository for backed up game saves<br>
+Everything that isn't a single file will be zipped for the purpose of saving space and reducing clutter.
 
 # Save Formats
 NES: Everdrive<br>
