@@ -16,13 +16,11 @@ DS: Unsure, own homebrewed 3DS<br>
 3DS: Checkpoint<br>
 Genesis: Everdrive<br>
 Sega CD: Everdrive<br>
-Sega Saturn: Unsure<br>
-Sega Dreamcast: Unsure (I own a Brook Wingman which can supposedly back up its built-in VMU)<br>
+Sega Saturn: Dumps from Terraonion MODE<br>
+Sega Dreamcast: Dumps from Brook Wingman VMU<br>
 PS1: SD2PSX<br>
 PS2: SD2PSX<br>
 PS3: Unsure, Console supports CFW<br>
-PS4: USB Flash (Assumedly, unsure)<br>
-PS5: USB Flash (Assumedly, unsure)<br>
 PSP: Unsure, but I'm aware saves can be stored on external storage<br>
 Vita: Unsure<br>
 PC: Save Directory. May contain readme file per-game, including launcher name, to help.<br>
