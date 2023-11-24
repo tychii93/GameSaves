@@ -1,1 +1,1 @@
-Saves are in SD2PSX *.mcr format.
+## Saves are in SD2PSX *.mcd format.
